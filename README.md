@@ -12,11 +12,7 @@
 - Poppins [link](https://fonts.google.com/specimen/Poppins)
 
 I referred to Abu Anwar's idea Thank you so much!!!!!
+
 私はAbu Anwarのアイデアを参照しました。　Thank you so much!!!!!
 
 URL : Responsive-and-Animated-Portfolio-Flutter (episode-1)
-
-
-![Preview](/gif.gif)
-
-![App UI](/ui.png)
