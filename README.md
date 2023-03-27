@@ -13,6 +13,6 @@
 
 I referred to Abu Anwar's idea Thank you so much!!!!!
 
-私はAbu Anwarのアイデアを参照しました。　Thank you so much!!!!!
+私はAbu Anwarのアイデアを参照しました。　ありがとうございます。!!!!!
 
 URL : Responsive-and-Animated-Portfolio-Flutter (episode-1)
